@@ -86,7 +86,7 @@ Once configured, the plugin helps your team create consignments, print labels, r
 
 = 1.0.3 =
 
-* Improved the instant quote graphics in metabox.
+* Improved the instant quote panel graphics.
 * Minor rules engine updates.
 
 = 1.0.2 =
